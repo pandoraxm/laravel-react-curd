@@ -56,6 +56,11 @@ npm install
 npm run dev
 ```
 
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/pandoraxm/laravel-react-curd.svg)](https://starchart.cc/pandoraxm/laravel-react-curd)
+
 # Usage
 执行`artisan`命令运行
 
